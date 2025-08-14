@@ -10,11 +10,10 @@
 ---
 
 ### 🌟 about me
-- 🔭 Actualmente trabajando en **proyectos personales y de práctica**
-- 🌱 Aprendiendo **Python, JavaScript, HTML y CSS**
-- 💬 Pregúntame sobre **desarrollo web y scripts en Python**
-- 📍 Ubicación: **Colombia**
-- 📫 Cómo contactarme: **gamertag2034@gmail.com**
+- 🔭 Currently working on **proyectos personales y de práctica**
+- 🌱 Learning **Python, JavaScript, HTML y CSS**
+- 📍 Location: **Colombia**
+- 📫 How to contact me: **gamertag2034@gmail.com**
 
 ---
 
@@ -36,7 +35,7 @@
 
 ---
 
-### 📈 Actividad
+### 📈 Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gamertag001&theme=tokyo-night"/>
 </p>
@@ -53,7 +52,7 @@
   <img src="https://komarev.com/ghpvc/?username=TU-USUARIO&label=Visitas&color=blue&style=flat" alt="contador de visitas"/>
 </p>
 
-⭐ *Hecho con ❤️ en Colombia*
+⭐ *Made with❤️ in Colombia*
 
 
 
