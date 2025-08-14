@@ -3,7 +3,7 @@
 
 <!-- Título con animación -->
 <h1 align="center">
-  Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, soy [Tu Nombre]
+  Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, im [erick]
 </h1>
 <h3 align="center">💻 Dev in progress and enthusiastic about learning from Colombia 🇨🇴</h3>
 
