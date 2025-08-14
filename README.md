@@ -1,4 +1,4 @@
-<!-- Banner -->
+<!-- Banner --> 
 <img src="Banner github.png" alt="Banner" width="100%">
 
 <!-- Título con animación -->
@@ -30,7 +30,7 @@
 ### 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gamertag001&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamertag001&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamertag001&layout=compact&langs_count=4&hide=php,java,c%2B%2B&theme=tokyonight" height="150"/>
 </p>
 
 ---
@@ -49,10 +49,11 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU-USUARIO&label=Visitas&color=blue&style=flat" alt="contador de visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=Gamertag001&label=Visitas&color=blue&style=flat" alt="contador de visitas"/>
 </p>
 
 ⭐ *Made with❤️ in Colombia*
+
 
 
 
