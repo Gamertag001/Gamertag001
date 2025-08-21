@@ -10,7 +10,7 @@
 
 ### 🌟 about me
 - 🔭 Currently working on **personal and practice projects**
-- 🌱 Learning **Python, JavaScript, HTML y CSS**
+- 🌱 Learning **Python, Javascript, HTML and CSS**
 - 📍 Location: **Colombia**
 - 📫 How to contact me: **gamertag2034@gmail.com**
 
